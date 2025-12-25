@@ -1,0 +1,6 @@
+
+Model: WinKawaks/vit-tiny-patch16-224
+Epochs: 1
+Batch size: 32
+Optimizer: SGD (lr=0.003, momentum=0.9)
+Validation Accuracy: 98.57%
